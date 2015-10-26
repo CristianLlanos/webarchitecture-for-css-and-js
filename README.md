@@ -15,7 +15,7 @@ Hi, this is an approach to defining a component driven web architecture using th
 - [Bower](http://bower.io/)
 - [A quick view to what Autoprefixer does](https://github.com/postcss/autoprefixer#options)
 - [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
-  Say good by to floats, inline-blocks, vertical-align that not always work and give Flexbox a try. You will find out it is a huge improvemt to CSS when making your layouts.
+  Say good bye to floats, inline-blocks, vertical-align that not always work and give Flexbox a try. You will find out it is a huge improvemt to CSS when making your layouts.
 - [Flux Architecture, a way to communicate your components](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture)
 
 ## Let's talk JS
