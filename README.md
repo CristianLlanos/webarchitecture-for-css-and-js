@@ -17,6 +17,7 @@ Hi, this is an approach to defining a component driven web architecture using th
 - [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
   Say good bye to floats, inline-blocks, vertical-align that not always work and give Flexbox a try. You will find out it is a huge improvemt to CSS when making your layouts.
 - [Flux Architecture, a way to communicate your components](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture)
+- [Aesthetic Sass: The Best Practices in Sass](https://scotch.io/courses/aesthetic-sass-the-best-practices-in-sass)
 
 ## Let's talk JS
 - [Airbnb JavaScript Style Guide for ES6](https://github.com/airbnb/javascript)
