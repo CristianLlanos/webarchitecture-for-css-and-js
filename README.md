@@ -35,7 +35,7 @@ Hi, this is an approach to defining a component driven web architecture using th
 - [Bootstrap 4: new architecture](http://v4-alpha.getbootstrap.com/getting-started/introduction/)
 
 ### CSS power
-- [Bootstrap customized features and templates](http://themes.getbootstrap.com/products/application)
+- [Bootstrap customized features and templates](http://bootstrap-themes.github.io/application/docs/index.html)
 - [A quick view to what Autoprefixer does](https://github.com/postcss/autoprefixer#options)
 - [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
   Say good bye to floats, inline-blocks, vertical-align that not always work and give Flexbox a try. You will find out it is a huge improvemt to CSS when making your layouts.
