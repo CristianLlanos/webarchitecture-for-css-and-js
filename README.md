@@ -18,9 +18,9 @@ Hi, this is an approach to defining a component driven web architecture using th
 
 ### Style guides for CSS
 - [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
+  A quick look into how this company writes and organizes their CSS.
 
 ### Methodologies and naming conventions
-  A quick look into how this company writes and organizes their CSS.
 - [BEM: Key concepts](https://en.bem.info/method/definitions/)
   This is an interesting methodology that help us make and extensible and mantainable CSS.
 - [BEM 101](https://css-tricks.com/bem-101/)
@@ -47,7 +47,7 @@ Hi, this is an approach to defining a component driven web architecture using th
 ### Style guides for JavaScript
 - [Airbnb JavaScript Style Guide for ES6](https://github.com/airbnb/javascript)
 
-### JavaScrit architecture
+### JavaScript architecture
 - [Flux Architecture, a way to communicate your components](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture)
 - [Browserify: Requiring modules in the browser](http://browserify.org/)
 
