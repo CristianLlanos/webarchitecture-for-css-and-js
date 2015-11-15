@@ -21,7 +21,8 @@ Hi, this is an approach to defining a component driven web architecture using th
   A quick look into how this company writes and organizes their CSS.
 
 ### Methodologies and naming conventions
-- [Jeffrey Way's BEM explanation](https://www.youtube.com/watch?v=WH4U4K5W8N8)
+- [![Organizing CSS with OOCSS, SMACSS, and BEM - Matt Stauffer](http://img.youtube.com/vi/IKFq2cSbQ4Q/0.jpg)](http://www.youtube.com/watch?v=IKFq2cSbQ4Q "Organizing CSS with OOCSS, SMACSS, and BEM - Matt Stauffer")
+- [![Jeffrey Way's BEM explanation](http://img.youtube.com/vi/WH4U4K5W8N8/0.jpg)](http://www.youtube.com/watch?v=WH4U4K5W8N8 "Jeffrey Way's BEM explanation")
 - [Modular CSS with Sass & BEM](http://mathayward.com/modular-css-with-sass-and-bem/) and its [framework](https://github.com/mathaywarduk/simple-sass-framework)
 - [BEM: Key concepts](https://en.bem.info/method/definitions/)
   This is an interesting methodology that help us make and extensible and mantainable CSS.
