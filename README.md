@@ -21,6 +21,8 @@ Hi, this is an approach to defining a component driven web architecture using th
   A quick look into how this company writes and organizes their CSS.
 
 ### Methodologies and naming conventions
+- [Jeffrey Way's BEM explanation](https://github.com/mathaywarduk/simple-sass-framework)
+- [Modular CSS with Sass & BEM](http://mathayward.com/modular-css-with-sass-and-bem/) and its [framework](https://github.com/mathaywarduk/simple-sass-framework)
 - [BEM: Key concepts](https://en.bem.info/method/definitions/)
   This is an interesting methodology that help us make and extensible and mantainable CSS.
 - [BEM 101](https://css-tricks.com/bem-101/)
